@@ -88173,7 +88173,8 @@
                 "type": "string",
                 "enum": [
                   "ENABLED",
-                  "DISABLED"
+                  "DISABLED",
+                  "PROCESSING"
                 ]
               },
               "model": {
