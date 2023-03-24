@@ -101277,6 +101277,7 @@
               },
               "required": [
                 "code",
+                "detail",
                 "title",
                 "status"
               ]
@@ -101540,7 +101541,8 @@
         "enum": [
           "IOS",
           "MAC_OS",
-          "UNIVERSAL"
+          "UNIVERSAL",
+          "SERVICES"
         ]
       },
       "CapabilityOption": {
